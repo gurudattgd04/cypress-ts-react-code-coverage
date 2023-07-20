@@ -1,0 +1,47 @@
+{
+  "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/App.tsx": {
+    "path": "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/App.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/index.tsx": {
+    "path": "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/components/CardPreview.tsx": {
+    "path": "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/components/CardPreview.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/components/cardPreview.spec.tsx": {
+    "path": "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/components/cardPreview.spec.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/services/cardService.ts": {
+    "path": "/Users/gurudattsa/development-repo/PersonalRepo/react-ts-example/my-app/src/services/cardService.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  }
+}
